@@ -4,7 +4,7 @@ import { Card } from "@/components/ui/card";
 import { Label } from "@/components/ui/label";
 import { CalendarIcon, MapPin, Users, Star } from "lucide-react";
 import { format } from "date-fns";
-import heroImage from "@/assets/hero-room.jpg";
+import heroImage from "@/assets/hero-room.png";
 import BookingModal from "./BookingModal";
 import { supabase } from "@/integrations/supabase/client";
 import { Calendar } from "@/components/ui/calendar";

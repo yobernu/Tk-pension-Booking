@@ -1,6 +1,6 @@
 import { Card, CardContent } from "@/components/ui/card";
 import { Award, MapPin, Clock, Phone } from "lucide-react";
-import hotelExterior from "@/assets/hotel-exterior.jpg";
+import hotelExterior from "@/assets/hero-room.png";
 
 const AboutSection = () => {
   const features = [
